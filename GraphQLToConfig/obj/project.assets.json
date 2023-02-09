@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "GraphQL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/GraphQL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GraphQL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GraphQL/1.0.0": {
+      "type": "project",
+      "path": "../GraphQL/GraphQL.csproj",
+      "msbuildProject": "../GraphQL/GraphQL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "GraphQL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/ashutoshnigam/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQLToConfig/GraphQLToConfig.csproj",
+      "projectName": "GraphQLToConfig",
+      "projectPath": "/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQLToConfig/GraphQLToConfig.csproj",
+      "packagesPath": "/Users/ashutoshnigam/.nuget/packages/",
+      "outputPath": "/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQLToConfig/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ashutoshnigam/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQL/GraphQL.csproj": {
+              "projectPath": "/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQL/GraphQL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQL/bin/Debug/net7.0/GraphQL.deps.json
+/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQL/bin/Debug/net7.0/GraphQL.dll
+/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQL/bin/Debug/net7.0/GraphQL.pdb
+/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQL/obj/Debug/net7.0/GraphQL.csproj.AssemblyReference.cache
+/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQL/obj/Debug/net7.0/GraphQL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQL/obj/Debug/net7.0/GraphQL.AssemblyInfoInputs.cache
+/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQL/obj/Debug/net7.0/GraphQL.AssemblyInfo.cs
+/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQL/obj/Debug/net7.0/GraphQL.csproj.CoreCompileInputs.cache
+/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQL/obj/Debug/net7.0/GraphQL.dll
+/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQL/obj/Debug/net7.0/refint/GraphQL.dll
+/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQL/obj/Debug/net7.0/GraphQL.pdb
+/Users/ashutoshnigam/Projects/GraphQLToConfig/GraphQL/obj/Debug/net7.0/ref/GraphQL.dll
